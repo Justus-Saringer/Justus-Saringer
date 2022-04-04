@@ -22,13 +22,12 @@ height="40"/>&nbsp;
 </div>
 
 ---
-
-https://github-readme-streak-stats.herokuapp.com/?user=Justus-Saringer
-
-
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justus-Saringer)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=Justus-Saringer
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justus-Saringer)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 Justus-Saringer/Justus-Saringer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
