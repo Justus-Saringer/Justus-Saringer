@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Justus-Saringer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I am interested in cycling, sailing and the latest technology
+- 🌱 I’m currently learning Kotlin and Compose
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: jsaringer@gmx.de
 
 ---
 
@@ -22,10 +22,13 @@ height="40"/>&nbsp;
 </div>
 
 ---
+<div align="center">
+https://github-readme-streak-stats.herokuapp.com/?user=Justus-Saringer
+</div>
 
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-Justus-Saringer
-
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justus-Saringer)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <!---
 Justus-Saringer/Justus-Saringer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
