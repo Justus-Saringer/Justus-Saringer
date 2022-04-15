@@ -27,9 +27,11 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justus-Saringer)](https://github.com/anuraghazra/github-readme-stats)
 
 
-https://github-readme-streak-stats.herokuapp.com/?user=Justus-Saringer
+
+<img align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Justus-Saringer&show_icons=true&hide_border=true" />
 
 <!---
 Justus-Saringer/Justus-Saringer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
