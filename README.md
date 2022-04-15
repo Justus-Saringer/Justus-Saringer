@@ -27,7 +27,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justus-Saringer)](https://github.com/anuraghazra/github-readme-stats)
+
 
 https://github-readme-streak-stats.herokuapp.com/?user=Justus-Saringer
 
