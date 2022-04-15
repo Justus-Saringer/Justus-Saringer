@@ -28,13 +28,9 @@
 ---
 <div style="display:flex; flex-direction: row; justify-content: center; align-items: center">
   
-  <!--
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justus-Saringer)](https://github.com/anuraghazra/github-readme-stats)
--->
-  <img align="left" alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justus-Saringer"
-       />
-
-<img align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Justus-Saringer&show_icons=true&hide_border=true" />
+<img align="left" alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justus-Saringer"/>
+     
+<img align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Justus-Saringer&show_icons=true&         hide_border=true" />
   
 </div>
 
