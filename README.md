@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Justus-Saringer
-- 👀 I am interested in cycling, sailing and the latest technology
-- 🌱 I’m currently learning Kotlin and Compose
-- 💞️ I’m looking to collaborate on ...
+- 👀 I am interested in cycling, sailing and of course mobile development
 - 📫 How to reach me: jsaringer@gmx.de
 
 ---
